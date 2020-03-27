@@ -1,4 +1,2 @@
-
-git remote add both git@e.coding.net:keeeweee/TianGou.git
-git remote set-url --add --push both git@e.coding.net:keeeweee/TianGou.git
-git remote set-url --add --push both git@github.com:jingle1267/TianGou.git
+git remote add coding git@e.coding.net:keeeweee/TianGou.git
+git push -u coding master
