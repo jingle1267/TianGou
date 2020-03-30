@@ -1,4 +1,4 @@
 # TianGou
 舔狗日记
 
-preview：[http://ihongqiqu.com/TianGou/](http://ihongqiqu.com/TianGou/)
+preview：[http://tg.94275.cn/](http://tg.94275.cn/)
