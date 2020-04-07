@@ -1,2 +1,2 @@
-git remote add coding git@e.coding.net:keeeweee/TianGou.git
+git remote add coding git@e.coding.net:keeeweee/TG.git
 git push -u coding master
