@@ -14,6 +14,7 @@ html, body{
 #quote{
     border-color: auto
     font-size:7em;
+    line-height: 2.2em;
 }
 #author{
     font-style: italic;
