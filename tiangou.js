@@ -1,6 +1,8 @@
 var dataJson;
 
 function getQuote() {
+    _czc.push(["_trackEvent", "舔狗日记", "再来一段", "舔狗日记再来一段"]);
+
     // console.log(dataJson)
     var date = new Date();
     $('#date').text((date.getMonth() + 1) + '月' + date.getDate() + '日 晴');
